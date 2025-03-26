@@ -129,8 +129,8 @@ hr {
 .worksContainer {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-around;
+  align-items: left;
   margin: 5rem auto;
   max-width: 1200px;
 }
@@ -138,7 +138,7 @@ hr {
 .projectTitle {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
   gap: 5px;
   font-size: 2rem;
 }
@@ -146,7 +146,8 @@ hr {
   display: flex;
   list-style-type: none;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 3rem;
 }
 .works li {
   border-radius: 16px;
