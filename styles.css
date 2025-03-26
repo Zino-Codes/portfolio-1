@@ -146,8 +146,7 @@ hr {
   display: flex;
   list-style-type: none;
   align-items: center;
-  justify-content: center;
-  gap: 3rem;
+  justify-content: space-between;
 }
 .works li {
   border-radius: 16px;
