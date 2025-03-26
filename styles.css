@@ -129,7 +129,7 @@ hr {
 .worksContainer {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   margin: 5rem auto;
   max-width: 1200px;
@@ -138,7 +138,7 @@ hr {
 .projectTitle {
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: center;
   gap: 5px;
   font-size: 2rem;
 }
