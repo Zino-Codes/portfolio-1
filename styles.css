@@ -130,7 +130,7 @@ hr {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  align-items: left;
+  align-items: center;
   margin: 5rem auto;
   max-width: 1200px;
 }
